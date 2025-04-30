@@ -1,0 +1,8 @@
+name: Killcounter_Laintania
+version: '1.0'
+main: de.devniklas.bewerbungsplugin.Killcounter_Laintania
+api-version: '1.21'
+commands:
+  killcounter:
+    description: Zeigt deine Monster-Kills an
+    usage: /killcounter

@@ -1,0 +1,5 @@
+de\devniklas\bewerbungsplugin\storage\KillStorage.class
+de\devniklas\bewerbungsplugin\commands\KillCounterCommand.class
+de\devniklas\bewerbungsplugin\listeners\EntityKillListener.class
+de\devniklas\bewerbungsplugin\storage\KillStorage$1.class
+de\devniklas\bewerbungsplugin\Killcounter_Laintania.class
